@@ -1,0 +1,15 @@
+C:\Users\ADALBERRTO CERRILLO\Downloads\TareasVisual.NET\Examen1\Examen1\bin\Debug\net6.0\Examen1.exe
+C:\Users\ADALBERRTO CERRILLO\Downloads\TareasVisual.NET\Examen1\Examen1\bin\Debug\net6.0\Examen1.deps.json
+C:\Users\ADALBERRTO CERRILLO\Downloads\TareasVisual.NET\Examen1\Examen1\bin\Debug\net6.0\Examen1.runtimeconfig.json
+C:\Users\ADALBERRTO CERRILLO\Downloads\TareasVisual.NET\Examen1\Examen1\bin\Debug\net6.0\Examen1.dll
+C:\Users\ADALBERRTO CERRILLO\Downloads\TareasVisual.NET\Examen1\Examen1\bin\Debug\net6.0\ref\Examen1.dll
+C:\Users\ADALBERRTO CERRILLO\Downloads\TareasVisual.NET\Examen1\Examen1\bin\Debug\net6.0\Examen1.pdb
+C:\Users\ADALBERRTO CERRILLO\Downloads\TareasVisual.NET\Examen1\Examen1\obj\Debug\net6.0\Examen1.csproj.AssemblyReference.cache
+C:\Users\ADALBERRTO CERRILLO\Downloads\TareasVisual.NET\Examen1\Examen1\obj\Debug\net6.0\Examen1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADALBERRTO CERRILLO\Downloads\TareasVisual.NET\Examen1\Examen1\obj\Debug\net6.0\Examen1.AssemblyInfoInputs.cache
+C:\Users\ADALBERRTO CERRILLO\Downloads\TareasVisual.NET\Examen1\Examen1\obj\Debug\net6.0\Examen1.AssemblyInfo.cs
+C:\Users\ADALBERRTO CERRILLO\Downloads\TareasVisual.NET\Examen1\Examen1\obj\Debug\net6.0\Examen1.csproj.CoreCompileInputs.cache
+C:\Users\ADALBERRTO CERRILLO\Downloads\TareasVisual.NET\Examen1\Examen1\obj\Debug\net6.0\Examen1.dll
+C:\Users\ADALBERRTO CERRILLO\Downloads\TareasVisual.NET\Examen1\Examen1\obj\Debug\net6.0\ref\Examen1.dll
+C:\Users\ADALBERRTO CERRILLO\Downloads\TareasVisual.NET\Examen1\Examen1\obj\Debug\net6.0\Examen1.pdb
+C:\Users\ADALBERRTO CERRILLO\Downloads\TareasVisual.NET\Examen1\Examen1\obj\Debug\net6.0\Examen1.genruntimeconfig.cache
