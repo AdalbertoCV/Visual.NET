@@ -122,7 +122,7 @@ namespace Calculadora
 
         private void InicializarComponentes()
         {
-            this.Size = new Size(600, 500);
+            this.Size = new Size(300, 500);
             this.Text = "Calculadora";
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             lblMenu.Text = "Seleccionar Tipo Calculadora";
@@ -174,7 +174,7 @@ namespace Calculadora
             btnExp.Size = new Size(60, 60);
             btnMod.Size = new Size(60, 60);
             btnOct.Size = new Size(60, 60);
-            txtDisplay.Size = new Size(570, 50);
+            txtDisplay.Size = new Size(270, 50);
             txtDisplay.Multiline = true;
             lblOperacion.AutoSize = true;
 
