@@ -35,6 +35,8 @@ public partial class Form1 : Form
         btnEditar.Location = new Point(530,150);
         btnEliminar.Location = new Point(530,270);
         btnAgregar.Click+= btnAgregar_click;
+        btnEditar.Click+= btnEditar_click;
+        btnEliminar.Click+= btnEliminar_click;
         this.Controls.Add(gdCervezas);
         this.Controls.Add(btnAgregar);
         this.Controls.Add(btnEditar);
@@ -42,13 +44,27 @@ public partial class Form1 : Form
     }
 
     private void btnAgregar_click(object? sender, EventArgs e){
-        cerveza nueva = new cerveza(){
-            Nombre = "Corona",
-            Estilo = "Pilsner",
-            Alcohol = 4.5
+        Form2 nuevoForm = new Form2();
+        if(nuevoForm.ShowDialog() == DialogResult.OK){
+            bd.Add(nuevoForm.cerveza);
+            bd.SaveChanges();
+            gdCervezas.DataSource = bd.cervezas.ToList();
+        }
+    }
 
-        };
-        bd.Add(nueva);
+    private void btnEditar_click(object? sender, EventArgs e){
+        cerveza seleccionada = (cerveza) gdCervezas.CurrentRow.DataBoundItem;
+        Form2 editForm = new Form2(seleccionada);
+        if(editForm.ShowDialog() == DialogResult.OK){
+            bd.Update(editForm.cerveza);
+            bd.SaveChanges();
+            gdCervezas.DataSource = bd.cervezas.ToList();
+        }
+    }
+
+    private void btnEliminar_click(object? sender, EventArgs e){
+        cerveza seleccionada = (cerveza) gdCervezas.CurrentRow.DataBoundItem;
+        bd.Remove(seleccionada);
         bd.SaveChanges();
         gdCervezas.DataSource = bd.cervezas.ToList();
     }
