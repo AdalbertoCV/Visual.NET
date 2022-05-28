@@ -1,0 +1,92 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CRUDWEB
+build_property.RootNamespace = CRUDWEB
+build_property.ProjectDir = C:\Users\ADALBERRTO CERRILLO\Downloads\TareasVisual.NET\CRUDWEB\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ADALBERRTO CERRILLO\Downloads\TareasVisual.NET\CRUDWEB
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ADALBERRTO CERRILLO/Downloads/TareasVisual.NET/CRUDWEB/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADALBERRTO CERRILLO/Downloads/TareasVisual.NET/CRUDWEB/Views/Cervezas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VydmV6YXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADALBERRTO CERRILLO/Downloads/TareasVisual.NET/CRUDWEB/Views/Cervezas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VydmV6YXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADALBERRTO CERRILLO/Downloads/TareasVisual.NET/CRUDWEB/Views/Cervezas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VydmV6YXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADALBERRTO CERRILLO/Downloads/TareasVisual.NET/CRUDWEB/Views/Cervezas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VydmV6YXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADALBERRTO CERRILLO/Downloads/TareasVisual.NET/CRUDWEB/Views/Cervezas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VydmV6YXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADALBERRTO CERRILLO/Downloads/TareasVisual.NET/CRUDWEB/Views/Estilos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0aWxvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADALBERRTO CERRILLO/Downloads/TareasVisual.NET/CRUDWEB/Views/Estilos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0aWxvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADALBERRTO CERRILLO/Downloads/TareasVisual.NET/CRUDWEB/Views/Estilos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0aWxvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADALBERRTO CERRILLO/Downloads/TareasVisual.NET/CRUDWEB/Views/Estilos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0aWxvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADALBERRTO CERRILLO/Downloads/TareasVisual.NET/CRUDWEB/Views/Estilos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0aWxvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADALBERRTO CERRILLO/Downloads/TareasVisual.NET/CRUDWEB/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADALBERRTO CERRILLO/Downloads/TareasVisual.NET/CRUDWEB/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADALBERRTO CERRILLO/Downloads/TareasVisual.NET/CRUDWEB/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADALBERRTO CERRILLO/Downloads/TareasVisual.NET/CRUDWEB/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADALBERRTO CERRILLO/Downloads/TareasVisual.NET/CRUDWEB/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADALBERRTO CERRILLO/Downloads/TareasVisual.NET/CRUDWEB/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADALBERRTO CERRILLO/Downloads/TareasVisual.NET/CRUDWEB/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADALBERRTO CERRILLO/Downloads/TareasVisual.NET/CRUDWEB/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-w9ycapr6ms
