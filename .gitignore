@@ -1,0 +1,19 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userprefs
+
+# Bases de datos locales
+*.mdf
+*.ldf
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
